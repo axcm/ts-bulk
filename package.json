@@ -2,7 +2,7 @@
   "name": "ts-bulk",
   "version": "1.0.0",
   "main": "ts-bulk.js",
-  "repository": "https://github/axcm/ts-bulk",
+  "repository": "https://github.com/axcm/ts-bulk",
   "author": "axcm",
   "license": "MIT",
   "devDependencies": {
