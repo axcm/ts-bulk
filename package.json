@@ -1,0 +1,16 @@
+{
+  "name": "ts-bulk",
+  "version": "1.0.0",
+  "main": "ts-bulk.js",
+  "repository": "https://github/axcm/ts-bulk",
+  "author": "axcm",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.3",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
